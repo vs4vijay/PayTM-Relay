@@ -24,11 +24,11 @@ To run this project: `truffle serve`
 
 ## To Do
 
--[ ] Encrypt User's Phone no.
--[ ] Check if we can build SPA using Angular 2
+[ ] Encrypt User's Phone no.
+[ ] Check if we can build SPA using Angular 2
 
 
-### Dev. Notes (Ignore this part)
+## Dev. Notes (Ignore this part)
 
 - Address1: 0x07e18ff4ab67278ff62f8e318e7cfc692e41ab5e
 - Address2: 0xee2091100b85942fb57a1abcef1ee7397a496fb5
